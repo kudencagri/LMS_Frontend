@@ -11,4 +11,6 @@ public class LocatorPage extends  Parent{
     }
     @FindBy(xpath = "")
     public WebElement first;
+    @FindBy(xpath = "")
+    public WebElement seco;
 }
